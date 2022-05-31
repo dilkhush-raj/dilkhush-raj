@@ -2,7 +2,7 @@
 
 - Hi! my name is **Dilkhush Raj**. I'm currently studying **BCA** from **IGNOU** University.
 - I'm interested in **Web-development** also learning **full stack web development**.
-- Created a Website for IGNOU BCA students using **Next.js** framework - [**IGNOU की BCA कक्षा**](https://bcaclub.vercel.app).
+<!-- - Created a Website for IGNOU BCA students using **Next.js** framework - [**IGNOU की BCA कक्षा**](https://bcaclub.vercel.app). -->
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilkhush-raj&label=Profile%20views&color=0e75b6&style=flat" alt="dilkhush" />
