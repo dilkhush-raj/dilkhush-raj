@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./assets/hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="👋" width="30px"/></h1>
+<h1 align="center">Hi <img src="./assets/Hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="👋" width="30px"/></h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> 
   -->
 
@@ -87,7 +87,5 @@
 
 <!--Contributions Graph-->
 <img src="https://activity-graph.herokuapp.com/graph?username=dilkhush-raj&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true">
-
-<p align="center">--- End ---</p>  
 
 ---
