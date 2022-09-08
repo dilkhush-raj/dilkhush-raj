@@ -27,7 +27,6 @@
 <!-- - 📝 I regularly write articles on -->
 <!-- - 📄 Know about my experiences [](Resume) -->
 <!-- - ⚡ Fun fact  -->
-<br />  
 
 ---
 
@@ -45,8 +44,6 @@
 
 ---  
 
-
-<br />
 <h2 align="left">Skills:</h2>
 <p align="center">
 <img align="center" src="./assets/c-programming.svg" alt="c-programming" />
@@ -76,11 +73,9 @@
 <img align="center" src="./assets/icons8-figma.svg" alt="figma" />
 <!-- <img align="center" src="./assets/" alt="postman" /> -->
  </p>
-<br />
 
 --- 
 
-<br />
 <!--Most Used Languages-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilkhush-raj&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="dilkhush-raj" /></p>  
 
