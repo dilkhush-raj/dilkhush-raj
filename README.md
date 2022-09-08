@@ -48,7 +48,7 @@
 
 <br />
 <h2 align="left">Skills:</h2>
-
+<p align="center">
 <img align="center" src="./assets/c-programming.svg" alt="c-programming" />
 <img align="center" src="./assets/java.svg" alt="java" />
 <!-- <img align="center" src="./assets/python.svg" alt="python" /> -->
@@ -75,7 +75,7 @@
 <img align="center" src="./assets/icons8-adobe-xd.svg" alt="xd" />
 <img align="center" src="./assets/icons8-figma.svg" alt="figma" />
 <!-- <img align="center" src="./assets/" alt="postman" /> -->
-  
+ </p>
 <br />
 
 --- 
