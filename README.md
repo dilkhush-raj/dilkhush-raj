@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning ***Java & Vue;***
 - 💬 Ask me about ***Web Development;***
 - 🔭 I’m currently working on ***[IGNOU की BCA कक्षा](https://bcakaksha.vercel.app)***;
-- 📫 How to reach me ***<a href="mailto:dilkhush_raj@outlook.com">mailto:dilkhush_raj@outlook.com<a/>***;
+- 📫 How to reach me ***<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com<a/>***;
 - 👨‍💻 All of my projects are available at ***[https://dilkhush.vercel.app](https://dilkhush.vercel.app)***;
 <!-- - 📝 I regularly write articles on -->
 <!-- - 📄 Know about my experiences [](Resume) -->
