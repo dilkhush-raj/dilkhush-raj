@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 <h1 align="center"><b>Hi <img src="./assets/hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="😎" width="30px"/></b></h1>
-=======
-<h1 align="center">Hi <img src="./assets/Hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="👋" width="30px"/></h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> 
-  -->
->>>>>>> 910063f7282a99d594f9bee85de4ad61435e4c8c
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+passionate+developer;Always+learning)
 
@@ -71,21 +65,12 @@
 <img align="center" src="./assets/icons8-adobe-xd.svg" alt="xd" />
 <img align="center" src="./assets/icons8-figma.svg" alt="figma" />
 <!-- <img align="center" src="./assets/" alt="postman" /> -->
-<<<<<<< HEAD
 
 --- 
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilkhush-raj) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilkhush-raj&layout=compact&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
-=======
- </p>
-
---- 
-
-<!--Most Used Languages-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilkhush-raj&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="dilkhush-raj" /></p>  
->>>>>>> 910063f7282a99d594f9bee85de4ad61435e4c8c
 
 ![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilkhush-raj&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
 
@@ -93,9 +78,5 @@
 
 ![Dilkhush's github activity graph](https://activity-graph.herokuapp.com/graph?username=dilkhush-raj&bg_color=00000000&color=0af&line=&point=05f&area_color=&area=&hide_border=true&hide_title=&custom_title&theme=&radius)
 
-<<<<<<< HEAD
 
 ---
-=======
----
->>>>>>> 910063f7282a99d594f9bee85de4ad61435e4c8c
