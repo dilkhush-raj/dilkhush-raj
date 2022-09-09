@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi <img src="./assets/hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="😎" width="30px"/></b></h1>
+<h1 align="center"><b>Hi <img src="./assets/Hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="😎" width="30px"/></b></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+passionate+developer;Always+learning)
 
@@ -72,11 +72,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilkhush-raj&layout=compact&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
 
-![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilkhush-raj&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
+![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilkhush-raj&title_color=0af&text_color=fca311&icon_color=ffb703&border_color=&bg_color=00000000&hide_border=true&border_radius&show_icons=true)
 
-![Dilkhush's GitHub Streak](https://streak-stats.demolab.com/?user=dilkhush-raj&hide_border=true&background=00000000&fire=FF5403&ring=FF5403&currStreakNum=FF5403&sideNums=00A19D&currStreakLabel=F55C47&sideLabels=88E0EF)
+![Dilkhush's GitHub Streak](https://streak-stats.demolab.com/?user=dilkhush-raj&hide_border=true&background=00000000&fire=fb5607&ring=f77f00&currStreakNum=ef233c&sideNums=00A19D&currStreakLabel=ef233c&sideLabels=88E0EF)
 
-![Dilkhush's github activity graph](https://activity-graph.herokuapp.com/graph?username=dilkhush-raj&bg_color=00000000&color=0af&line=&point=05f&area_color=&area=&hide_border=true&hide_title=&custom_title&theme=&radius)
+![Dilkhush's github activity graph](https://activity-graph.herokuapp.com/graph?username=dilkhush-raj&bg_color=00000000&color=0af&line=ffb703&point=f72585&area_color=f1faee&area=true&hide_border=true&hide_title=&custom_title&theme=&radius)
 
 
 ---
