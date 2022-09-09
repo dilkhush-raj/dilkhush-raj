@@ -1,18 +1,12 @@
-<h1 align="center">Hi <img src="./assets/hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="👋" width="30px"/></h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> 
-  -->
+<h1 align="center"><b>Hi <img src="./assets/hi.gif" alt="👋" width="30px"/>, I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="😎" width="30px"/></b></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+passionate+developer;Always+learning)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+passionate+developer;Always+learning)
 
-<!--Trophies-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilkhush-raj&theme=tokyonight" alt="dilkhush-raj" /></a></p>
+![trophy](https://github-profile-trophy.vercel.app/?username=dilkhush-raj&theme=juicyfresh&no-bg=true&no-frame=true)
 
 ---
 
-
-<!--Profile Views-->
-<br /><img src="https://komarev.com/ghpvc/?username=dilkhush-raj&label=Profile%20views&color=0e75b6&style=flat" alt="dilkhush-raj" /> <a href="https://github.com/dilkhush-raj?tab=followers"><!--Followers Count-->
-<img src="https://img.shields.io/github/followers/dilkhush-raj?label=Followers&style=social" alt="GitHub Badge"></a>
+![Profile Views](https://komarev.com/ghpvc/?username=dilkhush-raj&style=for-the-badge)
 
 
 <!--About Me-->
@@ -22,15 +16,13 @@
 - 🌱 I’m currently learning ***Java & Vue;***
 - 💬 Ask me about ***Web Development;***
 - 🔭 I’m currently working on ***[IGNOU की BCA कक्षा](https://bcakaksha.vercel.app)***;
-- 📫 How to reach me ***<a href="mailto:dilkhush_raj@outlook.com">mailto:dilkhush_raj@outlook.com<a/>***;
+- 📫 How to reach me ***<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com<a/>***;
 - 👨‍💻 All of my projects are available at ***[https://dilkhush.vercel.app](https://dilkhush.vercel.app)***;
 <!-- - 📝 I regularly write articles on -->
 <!-- - 📄 Know about my experiences [](Resume) -->
 <!-- - ⚡ Fun fact  -->
-<br />  
 
 ---
-
 
 <!--Connect With Me-->
 <h3 align="left">Connect with me:</h3>
@@ -45,8 +37,6 @@
 
 ---  
 
-
-<br />
 <h2 align="left">Skills:</h2>
 
 <img align="center" src="./assets/c-programming.svg" alt="c-programming" />
@@ -75,24 +65,18 @@
 <img align="center" src="./assets/icons8-adobe-xd.svg" alt="xd" />
 <img align="center" src="./assets/icons8-figma.svg" alt="figma" />
 <!-- <img align="center" src="./assets/" alt="postman" /> -->
-  
-<br />
 
 --- 
 
-<br />
-<!--Most Used Languages-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilkhush-raj&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="dilkhush-raj" /></p>  
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilkhush-raj) -->
 
-<!--Current Streak-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilkhush-raj&theme=tokyonight&ring=DD2727&fire=DD2727" alt="dilkhush-raj" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilkhush-raj&layout=compact&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
 
-<!--GitHub Stats-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dilkhush-raj&theme=tokyonight&show_icons=true&locale=en" alt="dilkhush-raj" /></p>
+![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilkhush-raj&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
 
-<!--Contributions Graph-->
-<img src="https://activity-graph.herokuapp.com/graph?username=dilkhush-raj&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true">
+![Dilkhush's GitHub Streak](https://streak-stats.demolab.com/?user=dilkhush-raj&hide_border=true&background=00000000&fire=FF5403&ring=FF5403&currStreakNum=FF5403&sideNums=00A19D&currStreakLabel=F55C47&sideLabels=88E0EF)
 
-<p align="center">--- End ---</p>  
+![Dilkhush's github activity graph](https://activity-graph.herokuapp.com/graph?username=dilkhush-raj&bg_color=00000000&color=0af&line=&point=05f&area_color=&area=&hide_border=true&hide_title=&custom_title&theme=&radius)
+
 
 ---
