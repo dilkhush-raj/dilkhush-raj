@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning ***Java & Vue;***
 - 💬 Ask me about ***Web Development;***
 - 🔭 I’m currently working on ***[IGNOU की BCA कक्षा](https://bcakaksha.vercel.app)***;
-- 📫 How to reach me ***<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com<a/>***;
+- 📫 How to reach me ***<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com</a>***;
 - 👨‍💻 All of my projects are available at ***[https://dilkhush.vercel.app](https://dilkhush.vercel.app)***;
 <!-- - 📝 I regularly write articles on -->
 <!-- - 📄 Know about my experiences [](Resume) -->
@@ -65,10 +65,11 @@
 <img align="center" src="./assets/icons8-adobe-xd.svg" alt="xd" />
 <img align="center" src="./assets/icons8-figma.svg" alt="figma" />
 <!-- <img align="center" src="./assets/" alt="postman" /> -->
+</p>  
 
 --- 
 
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilkhush-raj) -->
+![Dilkhush's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilkhush&bg_color=00000000&hide_border=true&title_color=fca311&text_color=09f)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilkhush-raj&layout=compact&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
 
