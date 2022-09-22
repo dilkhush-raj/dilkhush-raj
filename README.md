@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dilkhush-raj&style=for-the-badge)
     
     
-<img align="right" width="400px" src="./assets/hello1.gif" />
+<img align="right" width="300px" src="./assets/guy.svg" />
 
 <!--About Me-->
 
