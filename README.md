@@ -9,11 +9,14 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dilkhush-raj&style=for-the-badge)
-    
-    
-<img align="right" width="300px" src="./assets/guy.svg" />
 
+<table>
+<tr>
+<td><img align="left" width="300px" src="./assets/coding-in-forest.svg" /></td>
+<td>
 <!--About Me-->
+
+# About Me
 
 <!-- - 👯 I’m looking to collaborate on []() -->
 <!-- - 🤝 I’m looking for help with []() -->
@@ -25,7 +28,11 @@
 - 👨‍💻 All of my projects are available at ***[https://dilkhush.vercel.app](https://dilkhush.vercel.app)***;
 <!-- - 📝 I regularly write articles on -->
 <!-- - 📄 Know about my experiences [](Resume) -->
-<!-- - ⚡ Fun fact  -->
+</td>
+</tr>
+</table>
+
+
 
 ---
 
@@ -73,13 +80,6 @@
 </p>  
 
 --- 
-
-![Dilkhush's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilkhush&bg_color=00000000&hide_border=true&title_color=fca311&text_color=09f)   
-    
-    
-
-<!--START_SECTION:waka-->    
-<!--END_SECTION:waka-->  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilkhush-raj&layout=compact&title_color=0af&text_color=0af&icon_color=&border_color=&bg_color=00000000&hide_border=true&border_radius)
