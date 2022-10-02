@@ -20,7 +20,7 @@
 
 <!-- - 👯 I’m looking to collaborate on []() -->
 <!-- - 🤝 I’m looking for help with []() -->
-- 🌱 I’m currently learning ***Java & Vue;***  
+- 🌱 I’m currently learning ***Java;***  
 
 - 💬 Ask me about ***Web Development;***
 - 🔭 I’m currently working on ***[IGNOU की BCA कक्षा](https://bcakaksha.vercel.app)***;
