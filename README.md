@@ -40,9 +40,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--Twitter-->
-<a href="https://twitter.com/dilkhush_india" target="blank"><img align="center" src="./assets/twitter-circled.svg" alt="twitter"/></a>
+<a href="https://twitter.com/dilkhush_coder" target="blank"><img align="center" src="./assets/twitter-circled.svg" alt="twitter"/></a>
 <!--LinkedIn-->
-<a href="https://linkedin.com/in/dilkhushraj" target="blank"><img align="center" src="./assets/linkedin-circled.svg" alt="linkedin" /></a>
+<a href="https://linkedin.com/in/dilkhush-raj" target="blank"><img align="center" src="./assets/linkedin-circled.svg" alt="linkedin" /></a>
 <!--Mail-->
 <a href="mailto:dilkhush_raj@outlook.com" target="blank"><img align="center" src="./assets/mail.svg" alt="mail" /></a>
 </p>
