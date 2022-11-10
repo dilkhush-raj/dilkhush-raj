@@ -1,4 +1,4 @@
-<img width=100% src="./assets/coding.gif" />
+<!-- <img width=100% src="./assets/coding.gif" /> -->
 
 <h1 align="center"><b>Hi <img src="./assets/Hi.gif" alt="👋" width="30px"/> I'm Dilkhush Raj <img src="./assets/emoji.gif" alt="😎" width="30px"/></b></h1>
 
