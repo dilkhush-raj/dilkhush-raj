@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning about _Web Technologies_
 - 💬 Ask me about _web projects_
-- 📫 How to reach me **_<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com</a>_**;
-- 👨‍💻 All of my projects are available at **_[dilkhush.vercel.app](https://dilkhush.vercel.app)_**;
+- 📫 How to reach me **_<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com</a>_**
+- 👨‍💻 All of my projects are available at **_[dilkhush.vercel.app](https://dilkhush.vercel.app)_**
 
 ## Technologies
 
@@ -14,5 +14,3 @@
 
 ## Connet With Me
 [![Twitter](https://img.shields.io/badge/Twitter-000000.svg?logo=x&logoColor=white)](https://x.com/dilkhush_coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b7.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilkhush-raj) [![E-mail](https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white)](mailto:dilkhush_raj@outlook.com)
-
---- 
