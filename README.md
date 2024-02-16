@@ -13,4 +13,4 @@
 
 
 ## Connet With Me
-[![Twitter](https://img.shields.io/badge/Twitter-000000.svg?logo=x&logoColor=white)](https://x.com/dilkhush_coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b7.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilkhush-raj) [![E-mail](https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white)](mailto:dilkhush_raj@outlook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000.svg?logo=x&logoColor=white)](https://x.com/dilkhush_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b7.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilkhush-raj) [![E-mail](https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white)](mailto:dilkhush_raj@outlook.com)
