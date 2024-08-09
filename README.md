@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about _Web Technologies_
 - 💬 Ask me about _web projects_
 - 📫 How to reach me **_<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com</a>_**
-- 👨‍💻 All of my projects are available at **_[dilkhush.vercel.app](https://dilkhush.vercel.app)_**
+- 👨‍💻 All of my projects are available at **_[dilkhush.vercel.app](https://dilkhushraj.me)_**
 
 ## Technologies
 
